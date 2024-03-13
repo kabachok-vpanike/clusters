@@ -1,0 +1,57 @@
+.node-text {
+  font: 20px sans-serif;
+  pointer-events: none;
+  fill: black;
+  font-weight: 600;
+}
+
+.graphAndRepresentatives {
+  width: 600px;
+}
+
+.graphAndRepresentativesView {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  column-gap: 80px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.filters {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  margin: 16px 0 64px 64px;
+}
+
+.infoUnderCluster {
+  height: 500px;
+  overflow: hidden;
+  overflow-y: scroll;
+
+}
+
+.showChordsButton button {
+  color: black;
+  text-decoration: underline;
+  border: none;
+  padding: 0;
+  font: inherit;
+  background-color: transparent;
+}
+
+.infoUnderCluster li::marker {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.infoUnderCluster li:not(:last-child) {
+  margin-bottom: 64px;
+}
+
+.authorAndSong {
+  font-size: 24px;
+  font-weight: 500;
+}
