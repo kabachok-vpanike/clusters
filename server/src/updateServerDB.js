@@ -6,7 +6,7 @@ const { parser } = pkg;
 import pkgArray from 'stream-json/streamers/StreamArray.js';
 const { streamArray } = pkgArray;
 
-const uri = "mongodb+srv://levalyadov86:FFu8oVo7gLOV4fUX@cluster.ku0sho9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster";
+const uri = "";
 const client = new MongoClient(uri);
 const dbName = 'songs';
 const collectionName = 'romanChords';
