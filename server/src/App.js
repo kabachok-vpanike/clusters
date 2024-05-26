@@ -7,7 +7,7 @@ import { fetchTopNByProbability, fetchArtistSongs } from './queryHelpers/queryHe
 
 const dbName = 'songs';
 const collectionName = 'romanChords';
-const uri = "mongodb+srv://levalyadov86:FFu8oVo7gLOV4fUX@cluster.ku0sho9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"; // HIDE!
+const uri = "";
 const topN = 5;
 
 export async function topSongsByTransition(chordFrom, chordTo, cluster, numberOfClusters, numberOfChords) {
