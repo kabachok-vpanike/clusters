@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb';
 import fs from 'fs';
 
-const uri = "mongodb+srv://levalyadov86:FFu8oVo7gLOV4fUX@cluster.ku0sho9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster";
+const uri = "";
 const client = new MongoClient(uri);
 
 async function run() {
