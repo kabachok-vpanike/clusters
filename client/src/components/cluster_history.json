@@ -1,0 +1,3247 @@
+[
+    {
+        "stage": 1,
+        "merge": [
+            [
+                "Imagine Dragons"
+            ],
+            [
+                "Maroon 5"
+            ]
+        ],
+        "new_cluster_id": 100,
+        "merged_items": [
+            "Imagine Dragons",
+            "Maroon 5"
+        ],
+        "distance": 0.16635262718300992
+    },
+    {
+        "stage": 2,
+        "merge": [
+            [
+                "Coldplay"
+            ],
+            [
+                "Imagine Dragons",
+                "Maroon 5"
+            ]
+        ],
+        "new_cluster_id": 101,
+        "merged_items": [
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5"
+        ],
+        "distance": 0.18818328525341754
+    },
+    {
+        "stage": 3,
+        "merge": [
+            [
+                "Paul McCartney"
+            ],
+            [
+                "Tom Waits"
+            ]
+        ],
+        "new_cluster_id": 102,
+        "merged_items": [
+            "Paul McCartney",
+            "Tom Waits"
+        ],
+        "distance": 0.19725065507333517
+    },
+    {
+        "stage": 4,
+        "merge": [
+            [
+                "\u0427\u0430\u0439\u0444"
+            ],
+            [
+                "\u0414\u0414\u0422"
+            ]
+        ],
+        "new_cluster_id": 103,
+        "merged_items": [
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422"
+        ],
+        "distance": 0.20003991315392178
+    },
+    {
+        "stage": 5,
+        "merge": [
+            [
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442"
+            ],
+            [
+                "\u041f\u0438\u043b\u043e\u0442"
+            ]
+        ],
+        "new_cluster_id": 104,
+        "merged_items": [
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442"
+        ],
+        "distance": 0.20858989264821814
+    },
+    {
+        "stage": 6,
+        "merge": [
+            [
+                "Scorpions"
+            ],
+            [
+                "Marco Barrientos"
+            ]
+        ],
+        "new_cluster_id": 105,
+        "merged_items": [
+            "Scorpions",
+            "Marco Barrientos"
+        ],
+        "distance": 0.23474057320249586
+    },
+    {
+        "stage": 7,
+        "merge": [
+            [
+                "\u041f\u0438\u043a\u043d\u0438\u043a"
+            ],
+            [
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+                "\u041f\u0438\u043b\u043e\u0442"
+            ]
+        ],
+        "new_cluster_id": 106,
+        "merged_items": [
+            "\u041f\u0438\u043a\u043d\u0438\u043a",
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442"
+        ],
+        "distance": 0.2496942980674859
+    },
+    {
+        "stage": 8,
+        "merge": [
+            [
+                "Pink Floyd"
+            ],
+            [
+                "Queen"
+            ]
+        ],
+        "new_cluster_id": 107,
+        "merged_items": [
+            "Pink Floyd",
+            "Queen"
+        ],
+        "distance": 0.25827910182867186
+    },
+    {
+        "stage": 9,
+        "merge": [
+            [
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c"
+            ],
+            [
+                "\u0421\u043f\u043b\u0438\u043d"
+            ]
+        ],
+        "new_cluster_id": 108,
+        "merged_items": [
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d"
+        ],
+        "distance": 0.2667465182505866
+    },
+    {
+        "stage": 10,
+        "merge": [
+            [
+                "Linkin Park"
+            ],
+            [
+                "Fall Out Boy"
+            ]
+        ],
+        "new_cluster_id": 109,
+        "merged_items": [
+            "Linkin Park",
+            "Fall Out Boy"
+        ],
+        "distance": 0.27093508589035553
+    },
+    {
+        "stage": 11,
+        "merge": [
+            [
+                "Lana Del Rey"
+            ],
+            [
+                "Linkin Park",
+                "Fall Out Boy"
+            ]
+        ],
+        "new_cluster_id": 110,
+        "merged_items": [
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy"
+        ],
+        "distance": 0.2883759796138107
+    },
+    {
+        "stage": 12,
+        "merge": [
+            [
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5"
+            ],
+            [
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422"
+            ]
+        ],
+        "new_cluster_id": 111,
+        "merged_items": [
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422"
+        ],
+        "distance": 0.28941637398243114
+    },
+    {
+        "stage": 13,
+        "merge": [
+            [
+                "The Beach Boys"
+            ],
+            [
+                "Paul McCartney",
+                "Tom Waits"
+            ]
+        ],
+        "new_cluster_id": 112,
+        "merged_items": [
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits"
+        ],
+        "distance": 0.2896117415739812
+    },
+    {
+        "stage": 14,
+        "merge": [
+            [
+                "They Might Be Giants"
+            ],
+            [
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 113,
+        "merged_items": [
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.29041762741234844
+    },
+    {
+        "stage": 15,
+        "merge": [
+            [
+                "Pink Floyd",
+                "Queen"
+            ],
+            [
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 114,
+        "merged_items": [
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.30790147888722086
+    },
+    {
+        "stage": 16,
+        "merge": [
+            [
+                "Avril Lavigne"
+            ],
+            [
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 115,
+        "merged_items": [
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.31444391581144104
+    },
+    {
+        "stage": 17,
+        "merge": [
+            [
+                "\u0410\u0440\u0438\u044f"
+            ],
+            [
+                "\u0410\u043b\u0438\u0441\u0430"
+            ]
+        ],
+        "new_cluster_id": 116,
+        "merged_items": [
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430"
+        ],
+        "distance": 0.3193470558724927
+    },
+    {
+        "stage": 18,
+        "merge": [
+            [
+                "Miley Cyrus"
+            ],
+            [
+                "Neil Young"
+            ]
+        ],
+        "new_cluster_id": 117,
+        "merged_items": [
+            "Miley Cyrus",
+            "Neil Young"
+        ],
+        "distance": 0.32446267271500606
+    },
+    {
+        "stage": 19,
+        "merge": [
+            [
+                "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438"
+            ],
+            [
+                "Andr\u00e9s Calamaro"
+            ]
+        ],
+        "new_cluster_id": 118,
+        "merged_items": [
+            "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+            "Andr\u00e9s Calamaro"
+        ],
+        "distance": 0.3324422980884769
+    },
+    {
+        "stage": 20,
+        "merge": [
+            [
+                "\u0417\u0435\u043c\u0444\u0438\u0440\u0430"
+            ],
+            [
+                "\u041f\u0438\u043a\u043d\u0438\u043a",
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+                "\u041f\u0438\u043b\u043e\u0442"
+            ]
+        ],
+        "new_cluster_id": 119,
+        "merged_items": [
+            "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+            "\u041f\u0438\u043a\u043d\u0438\u043a",
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442"
+        ],
+        "distance": 0.3387212153872239
+    },
+    {
+        "stage": 21,
+        "merge": [
+            [
+                "Ryan Adams"
+            ],
+            [
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 120,
+        "merged_items": [
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.34571689382940707
+    },
+    {
+        "stage": 22,
+        "merge": [
+            [
+                "\u0411\u0438-2"
+            ],
+            [
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d"
+            ]
+        ],
+        "new_cluster_id": 121,
+        "merged_items": [
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d"
+        ],
+        "distance": 0.34909493264918
+    },
+    {
+        "stage": 23,
+        "merge": [
+            [
+                "Jason Mraz"
+            ],
+            [
+                "Justin Bieber"
+            ]
+        ],
+        "new_cluster_id": 122,
+        "merged_items": [
+            "Jason Mraz",
+            "Justin Bieber"
+        ],
+        "distance": 0.3551251667421539
+    },
+    {
+        "stage": 24,
+        "merge": [
+            [
+                "5 Seconds Of Summer"
+            ],
+            [
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 123,
+        "merged_items": [
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.3561635778574088
+    },
+    {
+        "stage": 25,
+        "merge": [
+            [
+                "Taylor Swift"
+            ],
+            [
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy"
+            ]
+        ],
+        "new_cluster_id": 124,
+        "merged_items": [
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy"
+        ],
+        "distance": 0.36023366059850914
+    },
+    {
+        "stage": 26,
+        "merge": [
+            [
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits"
+            ],
+            [
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 125,
+        "merged_items": [
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.36286983428786956
+    },
+    {
+        "stage": 27,
+        "merge": [
+            [
+                "Bad Religion"
+            ],
+            [
+                "Bon Jovi"
+            ]
+        ],
+        "new_cluster_id": 126,
+        "merged_items": [
+            "Bad Religion",
+            "Bon Jovi"
+        ],
+        "distance": 0.3698247506502882
+    },
+    {
+        "stage": 28,
+        "merge": [
+            [
+                "Scorpions",
+                "Marco Barrientos"
+            ],
+            [
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422"
+            ]
+        ],
+        "new_cluster_id": 127,
+        "merged_items": [
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422"
+        ],
+        "distance": 0.3711392324810072
+    },
+    {
+        "stage": 29,
+        "merge": [
+            [
+                "Red Hot Chili Peppers"
+            ],
+            [
+                "Miley Cyrus",
+                "Neil Young"
+            ]
+        ],
+        "new_cluster_id": 128,
+        "merged_items": [
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young"
+        ],
+        "distance": 0.37666326503651615
+    },
+    {
+        "stage": 30,
+        "merge": [
+            [
+                "Elton John"
+            ],
+            [
+                "Silvio Rodr\u00edguez"
+            ]
+        ],
+        "new_cluster_id": 129,
+        "merged_items": [
+            "Elton John",
+            "Silvio Rodr\u00edguez"
+        ],
+        "distance": 0.38828795473694555
+    },
+    {
+        "stage": 31,
+        "merge": [
+            [
+                "The Beatles"
+            ],
+            [
+                "Elvis Presley"
+            ]
+        ],
+        "new_cluster_id": 130,
+        "merged_items": [
+            "The Beatles",
+            "Elvis Presley"
+        ],
+        "distance": 0.38881284423178475
+    },
+    {
+        "stage": 32,
+        "merge": [
+            [
+                "Depeche Mode"
+            ],
+            [
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d"
+            ]
+        ],
+        "new_cluster_id": 131,
+        "merged_items": [
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d"
+        ],
+        "distance": 0.3895485864271828
+    },
+    {
+        "stage": 33,
+        "merge": [
+            [
+                "Arctic Monkeys"
+            ],
+            [
+                "Weezer"
+            ]
+        ],
+        "new_cluster_id": 132,
+        "merged_items": [
+            "Arctic Monkeys",
+            "Weezer"
+        ],
+        "distance": 0.391105424940849
+    },
+    {
+        "stage": 34,
+        "merge": [
+            [
+                "The Rolling Stones"
+            ],
+            [
+                "Bruce Springsteen"
+            ]
+        ],
+        "new_cluster_id": 133,
+        "merged_items": [
+            "The Rolling Stones",
+            "Bruce Springsteen"
+        ],
+        "distance": 0.39595466494350806
+    },
+    {
+        "stage": 35,
+        "merge": [
+            [
+                "Demi Lovato"
+            ],
+            [
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy"
+            ]
+        ],
+        "new_cluster_id": 134,
+        "merged_items": [
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy"
+        ],
+        "distance": 0.398553182533821
+    },
+    {
+        "stage": 36,
+        "merge": [
+            [
+                "Marcos Witt"
+            ],
+            [
+                "Jes\u00fas Adri\u00e1n Romero"
+            ]
+        ],
+        "new_cluster_id": 135,
+        "merged_items": [
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero"
+        ],
+        "distance": 0.3992237554796232
+    },
+    {
+        "stage": 37,
+        "merge": [
+            [
+                "My Chemical Romance"
+            ],
+            [
+                "Muse"
+            ]
+        ],
+        "new_cluster_id": 136,
+        "merged_items": [
+            "My Chemical Romance",
+            "Muse"
+        ],
+        "distance": 0.4111623000131308
+    },
+    {
+        "stage": 38,
+        "merge": [
+            [
+                "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434"
+            ],
+            [
+                "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+                "\u041f\u0438\u043a\u043d\u0438\u043a",
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+                "\u041f\u0438\u043b\u043e\u0442"
+            ]
+        ],
+        "new_cluster_id": 137,
+        "merged_items": [
+            "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+            "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+            "\u041f\u0438\u043a\u043d\u0438\u043a",
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442"
+        ],
+        "distance": 0.4143764999119992
+    },
+    {
+        "stage": 39,
+        "merge": [
+            [
+                "Ed Sheeran"
+            ],
+            [
+                "Fleetwood Mac"
+            ]
+        ],
+        "new_cluster_id": 138,
+        "merged_items": [
+            "Ed Sheeran",
+            "Fleetwood Mac"
+        ],
+        "distance": 0.417296539732661
+    },
+    {
+        "stage": 40,
+        "merge": [
+            [
+                "Chris Tomlin"
+            ],
+            [
+                "Planetshakers"
+            ]
+        ],
+        "new_cluster_id": 139,
+        "merged_items": [
+            "Chris Tomlin",
+            "Planetshakers"
+        ],
+        "distance": 0.42049909241226924
+    },
+    {
+        "stage": 41,
+        "merge": [
+            [
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young"
+            ],
+            [
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy"
+            ]
+        ],
+        "new_cluster_id": 140,
+        "merged_items": [
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy"
+        ],
+        "distance": 0.42636103136192227
+    },
+    {
+        "stage": 42,
+        "merge": [
+            [
+                "Hillsong Worship"
+            ],
+            [
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 141,
+        "merged_items": [
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.43204967887684886
+    },
+    {
+        "stage": 43,
+        "merge": [
+            [
+                "All Time Low"
+            ],
+            [
+                "Jonas Brothers"
+            ]
+        ],
+        "new_cluster_id": 142,
+        "merged_items": [
+            "All Time Low",
+            "Jonas Brothers"
+        ],
+        "distance": 0.43227145664936906
+    },
+    {
+        "stage": 44,
+        "merge": [
+            [
+                "The Mountain Goats"
+            ],
+            [
+                "Johnny Cash"
+            ]
+        ],
+        "new_cluster_id": 143,
+        "merged_items": [
+            "The Mountain Goats",
+            "Johnny Cash"
+        ],
+        "distance": 0.43818946963235716
+    },
+    {
+        "stage": 45,
+        "merge": [
+            [
+                "Paramore"
+            ],
+            [
+                "Switchfoot"
+            ]
+        ],
+        "new_cluster_id": 144,
+        "merged_items": [
+            "Paramore",
+            "Switchfoot"
+        ],
+        "distance": 0.4430265050658043
+    },
+    {
+        "stage": 46,
+        "merge": [
+            [
+                "Bob Dylan"
+            ],
+            [
+                "The Beatles",
+                "Elvis Presley"
+            ]
+        ],
+        "new_cluster_id": 145,
+        "merged_items": [
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley"
+        ],
+        "distance": 0.449220186147136
+    },
+    {
+        "stage": 47,
+        "merge": [
+            [
+                "Bethel Music"
+            ],
+            [
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 146,
+        "merged_items": [
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.45017111948532174
+    },
+    {
+        "stage": 48,
+        "merge": [
+            [
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422"
+            ],
+            [
+                "All Time Low",
+                "Jonas Brothers"
+            ]
+        ],
+        "new_cluster_id": 147,
+        "merged_items": [
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers"
+        ],
+        "distance": 0.4509801996003502
+    },
+    {
+        "stage": 49,
+        "merge": [
+            [
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430"
+            ],
+            [
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d"
+            ]
+        ],
+        "new_cluster_id": 148,
+        "merged_items": [
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d"
+        ],
+        "distance": 0.45195236061460586
+    },
+    {
+        "stage": 50,
+        "merge": [
+            [
+                "Elton John",
+                "Silvio Rodr\u00edguez"
+            ],
+            [
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero"
+            ]
+        ],
+        "new_cluster_id": 149,
+        "merged_items": [
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero"
+        ],
+        "distance": 0.45375930073356807
+    },
+    {
+        "stage": 51,
+        "merge": [
+            [
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b"
+            ],
+            [
+                "Green Day"
+            ]
+        ],
+        "new_cluster_id": 150,
+        "merged_items": [
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day"
+        ],
+        "distance": 0.4537963002999049
+    },
+    {
+        "stage": 52,
+        "merge": [
+            [
+                "Roy Orbison"
+            ],
+            [
+                "Glen Campbell"
+            ]
+        ],
+        "new_cluster_id": 151,
+        "merged_items": [
+            "Roy Orbison",
+            "Glen Campbell"
+        ],
+        "distance": 0.45431167348300283
+    },
+    {
+        "stage": 53,
+        "merge": [
+            [
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c"
+            ],
+            [
+                "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+                "Andr\u00e9s Calamaro"
+            ]
+        ],
+        "new_cluster_id": 152,
+        "merged_items": [
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+            "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+            "Andr\u00e9s Calamaro"
+        ],
+        "distance": 0.4577595030320524
+    },
+    {
+        "stage": 54,
+        "merge": [
+            [
+                "Eels"
+            ],
+            [
+                "Radiohead"
+            ]
+        ],
+        "new_cluster_id": 153,
+        "merged_items": [
+            "Eels",
+            "Radiohead"
+        ],
+        "distance": 0.45939702482359934
+    },
+    {
+        "stage": 55,
+        "merge": [
+            [
+                "U2"
+            ],
+            [
+                "David Bowie"
+            ]
+        ],
+        "new_cluster_id": 154,
+        "merged_items": [
+            "U2",
+            "David Bowie"
+        ],
+        "distance": 0.4628863300162315
+    },
+    {
+        "stage": 56,
+        "merge": [
+            [
+                "Jason Mraz",
+                "Justin Bieber"
+            ],
+            [
+                "Ed Sheeran",
+                "Fleetwood Mac"
+            ]
+        ],
+        "new_cluster_id": 155,
+        "merged_items": [
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac"
+        ],
+        "distance": 0.4719087717396673
+    },
+    {
+        "stage": 57,
+        "merge": [
+            [
+                "Blink-182"
+            ],
+            [
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers"
+            ]
+        ],
+        "new_cluster_id": 156,
+        "merged_items": [
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers"
+        ],
+        "distance": 0.4744675639526237
+    },
+    {
+        "stage": 58,
+        "merge": [
+            [
+                "Eric Clapton"
+            ],
+            [
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley"
+            ]
+        ],
+        "new_cluster_id": 157,
+        "merged_items": [
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley"
+        ],
+        "distance": 0.4745904302611852
+    },
+    {
+        "stage": 59,
+        "merge": [
+            [
+                "My Chemical Romance",
+                "Muse"
+            ],
+            [
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+                "Green Day"
+            ]
+        ],
+        "new_cluster_id": 158,
+        "merged_items": [
+            "My Chemical Romance",
+            "Muse",
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day"
+        ],
+        "distance": 0.4821325038221165
+    },
+    {
+        "stage": 60,
+        "merge": [
+            [
+                "Arctic Monkeys",
+                "Weezer"
+            ],
+            [
+                "Roy Orbison",
+                "Glen Campbell"
+            ]
+        ],
+        "new_cluster_id": 159,
+        "merged_items": [
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell"
+        ],
+        "distance": 0.48817051106378095
+    },
+    {
+        "stage": 61,
+        "merge": [
+            [
+                "Robbie Williams"
+            ],
+            [
+                "Oasis"
+            ]
+        ],
+        "new_cluster_id": 160,
+        "merged_items": [
+            "Robbie Williams",
+            "Oasis"
+        ],
+        "distance": 0.5012300901912197
+    },
+    {
+        "stage": 62,
+        "merge": [
+            [
+                "Bee Gees"
+            ],
+            [
+                "U2",
+                "David Bowie"
+            ]
+        ],
+        "new_cluster_id": 161,
+        "merged_items": [
+            "Bee Gees",
+            "U2",
+            "David Bowie"
+        ],
+        "distance": 0.5036983603059816
+    },
+    {
+        "stage": 63,
+        "merge": [
+            [
+                "Pearl Jam"
+            ],
+            [
+                "Paramore",
+                "Switchfoot"
+            ]
+        ],
+        "new_cluster_id": 162,
+        "merged_items": [
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot"
+        ],
+        "distance": 0.5043935227552208
+    },
+    {
+        "stage": 64,
+        "merge": [
+            [
+                "Grateful Dead"
+            ],
+            [
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 163,
+        "merged_items": [
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.5107820206880046
+    },
+    {
+        "stage": 65,
+        "merge": [
+            [
+                "One Direction"
+            ],
+            [
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 164,
+        "merged_items": [
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.5139814098804882
+    },
+    {
+        "stage": 66,
+        "merge": [
+            [
+                "Kenny Chesney"
+            ],
+            [
+                "Bryan Adams"
+            ]
+        ],
+        "new_cluster_id": 165,
+        "merged_items": [
+            "Kenny Chesney",
+            "Bryan Adams"
+        ],
+        "distance": 0.5145885035097764
+    },
+    {
+        "stage": 67,
+        "merge": [
+            [
+                "Status Quo"
+            ],
+            [
+                "Bad Religion",
+                "Bon Jovi"
+            ]
+        ],
+        "new_cluster_id": 166,
+        "merged_items": [
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi"
+        ],
+        "distance": 0.515907567271709
+    },
+    {
+        "stage": 68,
+        "merge": [
+            [
+                "Foo Fighters"
+            ],
+            [
+                "Eels",
+                "Radiohead"
+            ]
+        ],
+        "new_cluster_id": 167,
+        "merged_items": [
+            "Foo Fighters",
+            "Eels",
+            "Radiohead"
+        ],
+        "distance": 0.524853714638975
+    },
+    {
+        "stage": 69,
+        "merge": [
+            [
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers"
+            ],
+            [
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 168,
+        "merged_items": [
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.5259711857873599
+    },
+    {
+        "stage": 70,
+        "merge": [
+            [
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy"
+            ],
+            [
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot"
+            ]
+        ],
+        "new_cluster_id": 169,
+        "merged_items": [
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot"
+        ],
+        "distance": 0.5277838837510694
+    },
+    {
+        "stage": 71,
+        "merge": [
+            [
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d"
+            ],
+            [
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac"
+            ]
+        ],
+        "new_cluster_id": 170,
+        "merged_items": [
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac"
+        ],
+        "distance": 0.5285673264505795
+    },
+    {
+        "stage": 72,
+        "merge": [
+            [
+                "The Rolling Stones",
+                "Bruce Springsteen"
+            ],
+            [
+                "The Mountain Goats",
+                "Johnny Cash"
+            ]
+        ],
+        "new_cluster_id": 171,
+        "merged_items": [
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash"
+        ],
+        "distance": 0.5318852354262419
+    },
+    {
+        "stage": 73,
+        "merge": [
+            [
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430"
+            ],
+            [
+                "Kenny Chesney",
+                "Bryan Adams"
+            ]
+        ],
+        "new_cluster_id": 172,
+        "merged_items": [
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams"
+        ],
+        "distance": 0.5335552422496902
+    },
+    {
+        "stage": 74,
+        "merge": [
+            [
+                "Bee Gees",
+                "U2",
+                "David Bowie"
+            ],
+            [
+                "Foo Fighters",
+                "Eels",
+                "Radiohead"
+            ]
+        ],
+        "new_cluster_id": 173,
+        "merged_items": [
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead"
+        ],
+        "distance": 0.5353996189110127
+    },
+    {
+        "stage": 75,
+        "merge": [
+            [
+                "My Chemical Romance",
+                "Muse",
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+                "Green Day"
+            ],
+            [
+                "Robbie Williams",
+                "Oasis"
+            ]
+        ],
+        "new_cluster_id": 174,
+        "merged_items": [
+            "My Chemical Romance",
+            "Muse",
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day",
+            "Robbie Williams",
+            "Oasis"
+        ],
+        "distance": 0.5388334724827966
+    },
+    {
+        "stage": 76,
+        "merge": [
+            [
+                "Willie Nelson"
+            ],
+            [
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash"
+            ]
+        ],
+        "new_cluster_id": 175,
+        "merged_items": [
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash"
+        ],
+        "distance": 0.5501635083877403
+    },
+    {
+        "stage": 77,
+        "merge": [
+            [
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero"
+            ],
+            [
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell"
+            ]
+        ],
+        "new_cluster_id": 176,
+        "merged_items": [
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell"
+        ],
+        "distance": 0.5521462851290106
+    },
+    {
+        "stage": 78,
+        "merge": [
+            [
+                "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440"
+            ],
+            [
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+                "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+                "Andr\u00e9s Calamaro"
+            ]
+        ],
+        "new_cluster_id": 177,
+        "merged_items": [
+            "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+            "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+            "Andr\u00e9s Calamaro"
+        ],
+        "distance": 0.5551807471437011
+    },
+    {
+        "stage": 79,
+        "merge": [
+            [
+                "The Everly Brothers"
+            ],
+            [
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 178,
+        "merged_items": [
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.5800282523194987
+    },
+    {
+        "stage": 80,
+        "merge": [
+            [
+                "Metallica"
+            ],
+            [
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi"
+            ]
+        ],
+        "new_cluster_id": 179,
+        "merged_items": [
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi"
+        ],
+        "distance": 0.5831512352104427
+    },
+    {
+        "stage": 81,
+        "merge": [
+            [
+                "Chris Tomlin",
+                "Planetshakers"
+            ],
+            [
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 180,
+        "merged_items": [
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.583607447904195
+    },
+    {
+        "stage": 82,
+        "merge": [
+            [
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac"
+            ],
+            [
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead"
+            ]
+        ],
+        "new_cluster_id": 181,
+        "merged_items": [
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead"
+        ],
+        "distance": 0.5957033656486246
+    },
+    {
+        "stage": 83,
+        "merge": [
+            [
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams"
+            ],
+            [
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 182,
+        "merged_items": [
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.6047270857724777
+    },
+    {
+        "stage": 84,
+        "merge": [
+            [
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi"
+            ],
+            [
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead"
+            ]
+        ],
+        "new_cluster_id": 183,
+        "merged_items": [
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead"
+        ],
+        "distance": 0.6257894809786697
+    },
+    {
+        "stage": 85,
+        "merge": [
+            [
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash"
+            ],
+            [
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 184,
+        "merged_items": [
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.6298199089352627
+    },
+    {
+        "stage": 86,
+        "merge": [
+            [
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy",
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot"
+            ],
+            [
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi",
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead"
+            ]
+        ],
+        "new_cluster_id": 185,
+        "merged_items": [
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot",
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead"
+        ],
+        "distance": 0.6364173241841078
+    },
+    {
+        "stage": 87,
+        "merge": [
+            [
+                "Frank Sinatra"
+            ],
+            [
+                "Merle Haggard"
+            ]
+        ],
+        "new_cluster_id": 186,
+        "merged_items": [
+            "Frank Sinatra",
+            "Merle Haggard"
+        ],
+        "distance": 0.6535306589844971
+    },
+    {
+        "stage": 88,
+        "merge": [
+            [
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell"
+            ],
+            [
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 187,
+        "merged_items": [
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.6564329776300954
+    },
+    {
+        "stage": 89,
+        "merge": [
+            [
+                "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+                "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+                "\u041f\u0438\u043a\u043d\u0438\u043a",
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+                "\u041f\u0438\u043b\u043e\u0442"
+            ],
+            [
+                "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+                "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+                "Andr\u00e9s Calamaro"
+            ]
+        ],
+        "new_cluster_id": 188,
+        "merged_items": [
+            "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+            "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+            "\u041f\u0438\u043a\u043d\u0438\u043a",
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442",
+            "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+            "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+            "Andr\u00e9s Calamaro"
+        ],
+        "distance": 0.6766270227851574
+    },
+    {
+        "stage": 90,
+        "merge": [
+            [
+                "Eric Clapton",
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley"
+            ],
+            [
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell",
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 189,
+        "merged_items": [
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley",
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.6851469168194673
+    },
+    {
+        "stage": 91,
+        "merge": [
+            [
+                "George Strait"
+            ],
+            [
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams",
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 190,
+        "merged_items": [
+            "George Strait",
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.6888432223810692
+    },
+    {
+        "stage": 92,
+        "merge": [
+            [
+                "Nirvana"
+            ],
+            [
+                "My Chemical Romance",
+                "Muse",
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+                "Green Day",
+                "Robbie Williams",
+                "Oasis"
+            ]
+        ],
+        "new_cluster_id": 191,
+        "merged_items": [
+            "Nirvana",
+            "My Chemical Romance",
+            "Muse",
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day",
+            "Robbie Williams",
+            "Oasis"
+        ],
+        "distance": 0.7128709746440607
+    },
+    {
+        "stage": 93,
+        "merge": [
+            [
+                "Waylon Jennings"
+            ],
+            [
+                "George Strait",
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams",
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ]
+        ],
+        "new_cluster_id": 192,
+        "merged_items": [
+            "Waylon Jennings",
+            "George Strait",
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United"
+        ],
+        "distance": 0.7640653770616518
+    },
+    {
+        "stage": 94,
+        "merge": [
+            [
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy",
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot",
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi",
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead"
+            ],
+            [
+                "Eric Clapton",
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley",
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell",
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 193,
+        "merged_items": [
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot",
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead",
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley",
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.7745685547281853
+    },
+    {
+        "stage": 95,
+        "merge": [
+            [
+                "Waylon Jennings",
+                "George Strait",
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams",
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United"
+            ],
+            [
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy",
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot",
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi",
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead",
+                "Eric Clapton",
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley",
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell",
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 194,
+        "merged_items": [
+            "Waylon Jennings",
+            "George Strait",
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United",
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot",
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead",
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley",
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.7945056877010231
+    },
+    {
+        "stage": 96,
+        "merge": [
+            [
+                "Nirvana",
+                "My Chemical Romance",
+                "Muse",
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+                "Green Day",
+                "Robbie Williams",
+                "Oasis"
+            ],
+            [
+                "Waylon Jennings",
+                "George Strait",
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams",
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United",
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy",
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot",
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi",
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead",
+                "Eric Clapton",
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley",
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell",
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 195,
+        "merged_items": [
+            "Nirvana",
+            "My Chemical Romance",
+            "Muse",
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day",
+            "Robbie Williams",
+            "Oasis",
+            "Waylon Jennings",
+            "George Strait",
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United",
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot",
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead",
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley",
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.8316408790804674
+    },
+    {
+        "stage": 97,
+        "merge": [
+            [
+                "\u0412\u044b\u0441\u043e\u0446\u043a\u0438\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440"
+            ],
+            [
+                "Frank Sinatra",
+                "Merle Haggard"
+            ]
+        ],
+        "new_cluster_id": 196,
+        "merged_items": [
+            "\u0412\u044b\u0441\u043e\u0446\u043a\u0438\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+            "Frank Sinatra",
+            "Merle Haggard"
+        ],
+        "distance": 0.8484351236642576
+    },
+    {
+        "stage": 98,
+        "merge": [
+            [
+                "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+                "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+                "\u041f\u0438\u043a\u043d\u0438\u043a",
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+                "\u041f\u0438\u043b\u043e\u0442",
+                "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+                "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+                "Andr\u00e9s Calamaro"
+            ],
+            [
+                "Nirvana",
+                "My Chemical Romance",
+                "Muse",
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+                "Green Day",
+                "Robbie Williams",
+                "Oasis",
+                "Waylon Jennings",
+                "George Strait",
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams",
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United",
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy",
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot",
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi",
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead",
+                "Eric Clapton",
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley",
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell",
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 197,
+        "merged_items": [
+            "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+            "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+            "\u041f\u0438\u043a\u043d\u0438\u043a",
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442",
+            "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+            "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+            "Andr\u00e9s Calamaro",
+            "Nirvana",
+            "My Chemical Romance",
+            "Muse",
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day",
+            "Robbie Williams",
+            "Oasis",
+            "Waylon Jennings",
+            "George Strait",
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United",
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot",
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead",
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley",
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.8780142541181652
+    },
+    {
+        "stage": 99,
+        "merge": [
+            [
+                "\u0412\u044b\u0441\u043e\u0446\u043a\u0438\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+                "Frank Sinatra",
+                "Merle Haggard"
+            ],
+            [
+                "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+                "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+                "\u041f\u0438\u043a\u043d\u0438\u043a",
+                "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+                "\u041f\u0438\u043b\u043e\u0442",
+                "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+                "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+                "Andr\u00e9s Calamaro",
+                "Nirvana",
+                "My Chemical Romance",
+                "Muse",
+                "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+                "Green Day",
+                "Robbie Williams",
+                "Oasis",
+                "Waylon Jennings",
+                "George Strait",
+                "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+                "Kenny Chesney",
+                "Bryan Adams",
+                "Chris Tomlin",
+                "Planetshakers",
+                "Blink-182",
+                "Scorpions",
+                "Marco Barrientos",
+                "Coldplay",
+                "Imagine Dragons",
+                "Maroon 5",
+                "\u0427\u0430\u0439\u0444",
+                "\u0414\u0414\u0422",
+                "All Time Low",
+                "Jonas Brothers",
+                "One Direction",
+                "Bethel Music",
+                "Hillsong Worship",
+                "5 Seconds Of Summer",
+                "Ryan Adams",
+                "Avril Lavigne",
+                "Hillsong United",
+                "Red Hot Chili Peppers",
+                "Miley Cyrus",
+                "Neil Young",
+                "Demi Lovato",
+                "Taylor Swift",
+                "Lana Del Rey",
+                "Linkin Park",
+                "Fall Out Boy",
+                "Pearl Jam",
+                "Paramore",
+                "Switchfoot",
+                "Metallica",
+                "Status Quo",
+                "Bad Religion",
+                "Bon Jovi",
+                "\u0410\u0440\u0438\u044f",
+                "\u0410\u043b\u0438\u0441\u0430",
+                "Depeche Mode",
+                "\u0411\u0438-2",
+                "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+                "\u0421\u043f\u043b\u0438\u043d",
+                "Jason Mraz",
+                "Justin Bieber",
+                "Ed Sheeran",
+                "Fleetwood Mac",
+                "Bee Gees",
+                "U2",
+                "David Bowie",
+                "Foo Fighters",
+                "Eels",
+                "Radiohead",
+                "Eric Clapton",
+                "Bob Dylan",
+                "The Beatles",
+                "Elvis Presley",
+                "Elton John",
+                "Silvio Rodr\u00edguez",
+                "Marcos Witt",
+                "Jes\u00fas Adri\u00e1n Romero",
+                "Arctic Monkeys",
+                "Weezer",
+                "Roy Orbison",
+                "Glen Campbell",
+                "Willie Nelson",
+                "The Rolling Stones",
+                "Bruce Springsteen",
+                "The Mountain Goats",
+                "Johnny Cash",
+                "The Everly Brothers",
+                "Grateful Dead",
+                "The Beach Boys",
+                "Paul McCartney",
+                "Tom Waits",
+                "Pink Floyd",
+                "Queen",
+                "They Might Be Giants",
+                "John Mayer"
+            ]
+        ],
+        "new_cluster_id": 198,
+        "merged_items": [
+            "\u0412\u044b\u0441\u043e\u0446\u043a\u0438\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+            "Frank Sinatra",
+            "Merle Haggard",
+            "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+            "\u0417\u0435\u043c\u0444\u0438\u0440\u0430",
+            "\u041f\u0438\u043a\u043d\u0438\u043a",
+            "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+            "\u041f\u0438\u043b\u043e\u0442",
+            "\u042e\u0440\u0438\u0439 \u0412\u0438\u0437\u0431\u043e\u0440",
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0437\u0435\u043d\u0431\u0430\u0443\u043c",
+            "\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438",
+            "Andr\u00e9s Calamaro",
+            "Nirvana",
+            "My Chemical Romance",
+            "Muse",
+            "\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b",
+            "Green Day",
+            "Robbie Williams",
+            "Oasis",
+            "Waylon Jennings",
+            "George Strait",
+            "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430",
+            "Kenny Chesney",
+            "Bryan Adams",
+            "Chris Tomlin",
+            "Planetshakers",
+            "Blink-182",
+            "Scorpions",
+            "Marco Barrientos",
+            "Coldplay",
+            "Imagine Dragons",
+            "Maroon 5",
+            "\u0427\u0430\u0439\u0444",
+            "\u0414\u0414\u0422",
+            "All Time Low",
+            "Jonas Brothers",
+            "One Direction",
+            "Bethel Music",
+            "Hillsong Worship",
+            "5 Seconds Of Summer",
+            "Ryan Adams",
+            "Avril Lavigne",
+            "Hillsong United",
+            "Red Hot Chili Peppers",
+            "Miley Cyrus",
+            "Neil Young",
+            "Demi Lovato",
+            "Taylor Swift",
+            "Lana Del Rey",
+            "Linkin Park",
+            "Fall Out Boy",
+            "Pearl Jam",
+            "Paramore",
+            "Switchfoot",
+            "Metallica",
+            "Status Quo",
+            "Bad Religion",
+            "Bon Jovi",
+            "\u0410\u0440\u0438\u044f",
+            "\u0410\u043b\u0438\u0441\u0430",
+            "Depeche Mode",
+            "\u0411\u0438-2",
+            "\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c",
+            "\u0421\u043f\u043b\u0438\u043d",
+            "Jason Mraz",
+            "Justin Bieber",
+            "Ed Sheeran",
+            "Fleetwood Mac",
+            "Bee Gees",
+            "U2",
+            "David Bowie",
+            "Foo Fighters",
+            "Eels",
+            "Radiohead",
+            "Eric Clapton",
+            "Bob Dylan",
+            "The Beatles",
+            "Elvis Presley",
+            "Elton John",
+            "Silvio Rodr\u00edguez",
+            "Marcos Witt",
+            "Jes\u00fas Adri\u00e1n Romero",
+            "Arctic Monkeys",
+            "Weezer",
+            "Roy Orbison",
+            "Glen Campbell",
+            "Willie Nelson",
+            "The Rolling Stones",
+            "Bruce Springsteen",
+            "The Mountain Goats",
+            "Johnny Cash",
+            "The Everly Brothers",
+            "Grateful Dead",
+            "The Beach Boys",
+            "Paul McCartney",
+            "Tom Waits",
+            "Pink Floyd",
+            "Queen",
+            "They Might Be Giants",
+            "John Mayer"
+        ],
+        "distance": 0.9647055857338982
+    }
+]
